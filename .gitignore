@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Skill packaging
+*.skill
+
+# Python
+__pycache__/
+*.pyc
